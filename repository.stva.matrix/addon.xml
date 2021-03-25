@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.repostva" name="Repo [COLOR yellow]STVA[/COLOR] Matrix" version="1.0" provider-name="www.stva.ga">
+<addon id="repository.stvamatrix" name="Repo [COLOR yellow]STVA[/COLOR] Matrix" version="1.0" provider-name="www.stva.ga">
 	<extension point="xbmc.addon.repository" name="STVA Matrix">
 		<info compressed="false">https://raw.githubusercontent.com/stvabuild/stva.matrix/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/stvabuild/stva.matrix/master/addons.xml.md5</checksum>
