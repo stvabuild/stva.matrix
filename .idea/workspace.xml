@@ -1,9 +1,403 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68e62d5a-e73c-40ea-8cc5-6f6adfdc2fe4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/stva.matrix.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/stva.matrix.iml" afterDir="false" />
+    <list default="true" id="9c4cf599-76b5-4a49-a1e6-743476009e0d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/addons.xml.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository.stva.matrix/addon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repository.stva.matrix/addon.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/addon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/script.limpiarkodi/addon.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/addon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/cli.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/connections.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/errors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/makefile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/ssl/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/ssl/builtin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/ssl/pyopenssl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/test/_pytest_plugin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/test/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/test/helper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/test/test.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/test/test__compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/test/test_cli.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/test/test_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/test/test_config_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/test/test_conn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/test/test_core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/test/test_dispatch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/test/test_errors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/test/test_http.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/test/test_makefile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/test/test_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/test/test_ssl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/test/test_wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/test/test_wsgiapps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/test/webtest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/workers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/workers/threadpool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cheroot/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/_cpchecker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/_cpcompat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/_cpconfig.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/_cpdispatch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/_cperror.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/_cplogging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/_cpmodpy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/_cpnative_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/_cpreqbody.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/_cprequest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/_cpserver.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/_cptools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/_cptree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/_cpwsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/_cpwsgi_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/_helper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/_json.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/daemon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/lib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/lib/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/lib/auth_basic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/lib/auth_digest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/lib/caching.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/lib/covercp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/lib/cpstats.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/lib/cptools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/lib/encoding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/lib/gctools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/lib/httpauth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/lib/httputil.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/lib/jsontools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/lib/lockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/lib/locking.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/lib/profiler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/lib/reprconf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/lib/sessions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/lib/static.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/lib/xmlrpcutil.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/process/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/process/plugins.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/process/servers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/process/win32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/process/wspbus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/scaffold/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/scaffold/apache-fcgi.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/scaffold/example.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/scaffold/site.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/scaffold/static/made_with_cherrypy_small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/_test_decorators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/_test_states_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/benchmark.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/checkerdemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/fastcgi.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/fcgi.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/helper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/logtest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/modfastcgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/modfcgid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/modpy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/modwsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/sessiondemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/static/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/static/dirback.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_auth_basic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_auth_digest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_bus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_caching.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_config_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_conn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_dynamicobjectmapping.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_encoding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_etags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_http.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_httpauth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_httplib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_httputil.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_iterator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_json.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_logging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_mime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_misc_tools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_native.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_objectmapping.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_params.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_plugins.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_proxy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_refleaks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_request_obj.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_routes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_session.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_sessionauthenticate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_states.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_static.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_tools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_tutorials.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_virtualhost.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_wsgi_ns.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_wsgi_unix_socket.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_wsgi_vhost.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_wsgiapps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/test_xmlrpc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/test/webtest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/tutorial/README.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/tutorial/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/tutorial/custom_error.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/tutorial/pdf_file.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/tutorial/tut01_helloworld.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/tutorial/tut02_expose_methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/tutorial/tut03_get_and_post.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/tutorial/tut04_complex_site.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/tutorial/tut05_derived_objects.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/tutorial/tut06_default_method.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/tutorial/tut07_sessions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/tutorial/tut08_generators_and_yield.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/tutorial/tut09_files.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/tutorial/tut10_http_errors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/cherrypy/tutorial/tutorial.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/contextlib2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/jaraco/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/jaraco/classes/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/jaraco/classes/ancestry.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/jaraco/classes/meta.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/jaraco/classes/properties.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/jaraco/collections.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/jaraco/functools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/jaraco/text/Lorem ipsum.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/jaraco/text/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/more_itertools/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/more_itertools/PKG-INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/more_itertools/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/more_itertools/more.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/more_itertools/recipes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/more_itertools/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/more_itertools/tests/test_more.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/more_itertools/tests/test_recipes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/portend.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/tempora/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/tempora/schedule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/tempora/tests/test_schedule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/tempora/timing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/tempora/utc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/zc/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/zc/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/zc/lockfile/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/zc/lockfile/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.cherrypy/lib/zc/lockfile/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/addon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/lib/helpers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/lib/helpers/animatedart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/lib/helpers/channellogos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/lib/helpers/extrafanart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/lib/helpers/extraposter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/lib/helpers/fanarttv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/lib/helpers/google.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/lib/helpers/imdb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/lib/helpers/kodi_constants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/lib/helpers/kodidb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/lib/helpers/lastfm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/lib/helpers/mbrainz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/lib/helpers/moviesetdetails.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/lib/helpers/musicartwork.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/lib/helpers/omdb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/lib/helpers/pvrartwork.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/lib/helpers/streamdetails.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/lib/helpers/studiologos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/lib/helpers/theaudiodb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/lib/helpers/tmdb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/lib/helpers/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/lib/metadatautils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/resources/fanart.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/resources/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/resources/language/resource.language.en_gb/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/resources/language/resource.language.es_es/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/resources/language/resource.language.fr_fr/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/resources/language/resource.language.he_il/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/resources/language/resource.language.it_it/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/resources/language/resource.language.nl_nl/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/resources/screenshot-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/resources/screenshot-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/resources/screenshot-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/resources/screenshot-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/resources/screenshot-05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.metadatautils/resources/settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.musicbrainz/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.musicbrainz/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.musicbrainz/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.musicbrainz/addon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.musicbrainz/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.musicbrainz/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.thetvdb/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.thetvdb/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.thetvdb/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.thetvdb/addon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.thetvdb/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.thetvdb/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.module.thetvdb/lib/thetvdb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.backgrounds/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.backgrounds/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.backgrounds/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.backgrounds/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.backgrounds/addon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.backgrounds/default.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.backgrounds/fanart.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.backgrounds/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.backgrounds/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.backgrounds/resources/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.backgrounds/resources/language/resource.language.en_gb/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.backgrounds/resources/language/resource.language.fr_fr/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.backgrounds/resources/language/resource.language.he_il" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.backgrounds/resources/language/resource.language.it_it/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.backgrounds/resources/lib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.backgrounds/resources/lib/backgrounds_updater.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.backgrounds/resources/lib/conditional_backgrounds.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.backgrounds/resources/lib/smartshortcuts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.backgrounds/resources/lib/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.backgrounds/resources/lib/wallimages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.backgrounds/resources/settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.backgrounds/resources/smartshortcuts/smartshortcuts-submenu-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.backgrounds/service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/addon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/changelog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/default.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/fanart.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/plugin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/language/Hebrew/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/language/resource.language.cs_cz/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/language/resource.language.en_gb/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/language/resource.language.es_es/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/language/resource.language.fr_fr/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/language/resource.language.it_it/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/language/resource.language.pl_pl/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/lib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/lib/context_animatedart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/lib/context_music.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/lib/context_pvr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/lib/dialogselect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/lib/infodialog.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/lib/kodi_monitor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/lib/listitem_monitor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/lib/main_module.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/lib/main_service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/lib/plugin_content.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/lib/resourceaddons.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/lib/searchdialog.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/lib/skinsettings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/lib/skinshortcuts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/lib/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/lib/webservice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/skins/Default/1080i/script-skin_helper_service-CustomSearch.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/skins/Default/media/bgpanel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/skins/Default/media/inner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/skins/Default/media/panel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/skins/Default/media/panel_trans.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/skins/Default/media/poster.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/skins/Default/media/separator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/skins/Default/media/slider/slider_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/skins/Default/media/slider/slider_button_focus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/skins/Default/media/slider/slider_button_new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/resources/skins/Default/media/slider/slider_button_nofocus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.service/service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.skinbackup/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.skinbackup/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.skinbackup/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.skinbackup/addon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.skinbackup/default.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.skinbackup/fanart.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.skinbackup/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.skinbackup/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.skinbackup/resources/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.skinbackup/resources/language/resource.language.en_gb/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.skinbackup/resources/language/resource.language.fr_fr/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.skinbackup/resources/language/resource.language.he_IL/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.skinbackup/resources/language/resource.language.it_it/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.skinbackup/resources/lib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.skinbackup/resources/lib/backuprestore.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.skinbackup/resources/lib/colorthemes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.skinbackup/resources/lib/dialogselect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.skinbackup/resources/lib/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.skinbackup/resources/lib/zipfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.skinbackup/resources/settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.skinbackup/service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/addon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/fanart.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/plugin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/resources/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/resources/language/resource.language.en_gb/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/resources/language/resource.language.es_es/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/resources/language/resource.language.fr_fr/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/resources/language/resource.language.he_il/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/resources/language/resource.language.it_it/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/resources/language/resource.language.nl_nl/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/resources/language/resource.language.pt_br/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/resources/language/resource.language.pt_pt/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/resources/language/resource.language.sr_rs/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/resources/lib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/resources/lib/albums.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/resources/lib/artists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/resources/lib/episodes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/resources/lib/favourites.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/resources/lib/kodi_monitor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/resources/lib/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/resources/lib/media.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/resources/lib/movies.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/resources/lib/musicvideos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/resources/lib/pvr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/resources/lib/songs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/resources/lib/tvshows.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/resources/lib/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/resources/settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.skin.helper.widgets/service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.tv.show.next.aired/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.tv.show.next.aired/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.tv.show.next.aired/addon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/script.tv.show.next.aired/addon.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.tv.show.next.aired/default.py" beforeDir="false" afterPath="$PROJECT_DIR$/script.tv.show.next.aired/default.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.tv.show.next.aired/resources/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.tv.show.next.aired/resources/language/English/strings.po" beforeDir="false" afterPath="$PROJECT_DIR$/script.tv.show.next.aired/resources/language/English/strings.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.tv.show.next.aired/resources/language/French/strings.po" beforeDir="false" afterPath="$PROJECT_DIR$/script.tv.show.next.aired/resources/language/French/strings.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.tv.show.next.aired/resources/lib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.tv.show.next.aired/resources/lib/main_module.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.tv.show.next.aired/resources/lib/main_service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.tv.show.next.aired/resources/lib/next_aired_dialog.py" beforeDir="false" afterPath="$PROJECT_DIR$/script.tv.show.next.aired/resources/lib/next_aired_dialog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.tv.show.next.aired/resources/lib/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.tv.show.next.aired/resources/settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/script.tv.show.next.aired/resources/settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.tv.show.next.aired/resources/skins/Default/720p/script-NextAired-TVGuide.xml" beforeDir="false" afterPath="$PROJECT_DIR$/script.tv.show.next.aired/resources/skins/Default/720p/script-NextAired-TVGuide.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.tv.show.next.aired/resources/skins/Default/720p/script-NextAired-TVGuide2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/script.tv.show.next.aired/resources/skins/Default/720p/script-NextAired-TVGuide2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.tv.show.next.aired/service.py" beforeDir="false" afterPath="$PROJECT_DIR$/script.tv.show.next.aired/service.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +407,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1pHzMqXAer3eGYyx4PTFuxFGLMF" />
+  <component name="ProjectId" id="1pHzIUPpAVxodQO2xhgJ8GLcaAC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,7 +416,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
   <component name="RunManager">
-    <configuration name="repo_prep" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="repo_prep_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="stva.matrix" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -34,7 +428,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/repo_prep.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/repo_prep_matrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -45,37 +439,37 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.repo_prep" />
+        <item itemvalue="Python.repo_prep_matrix" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="68e62d5a-e73c-40ea-8cc5-6f6adfdc2fe4" name="Default Changelist" comment="" />
-      <created>1614854758323</created>
+      <changelist id="9c4cf599-76b5-4a49-a1e6-743476009e0d" name="Default Changelist" comment="" />
+      <created>1614854724007</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1614854758323</updated>
+      <updated>1614854724007</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1362" height="266" key="GridCell.Tab.0.bottom" timestamp="1614854991389">
+    <state width="1362" height="266" key="GridCell.Tab.0.bottom" timestamp="1616673774857">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.bottom/1920.74.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1614854991389" />
-    <state width="1362" height="266" key="GridCell.Tab.0.center" timestamp="1614854991389">
+    <state width="1362" height="266" key="GridCell.Tab.0.bottom/1920.74.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1616673774857" />
+    <state width="1362" height="266" key="GridCell.Tab.0.center" timestamp="1616673774857">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.center/1920.74.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1614854991389" />
-    <state width="1362" height="266" key="GridCell.Tab.0.left" timestamp="1614854991389">
+    <state width="1362" height="266" key="GridCell.Tab.0.center/1920.74.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1616673774857" />
+    <state width="1362" height="266" key="GridCell.Tab.0.left" timestamp="1616673774857">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.left/1920.74.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1614854991389" />
-    <state width="1362" height="266" key="GridCell.Tab.0.right" timestamp="1614854991389">
+    <state width="1362" height="266" key="GridCell.Tab.0.left/1920.74.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1616673774857" />
+    <state width="1362" height="266" key="GridCell.Tab.0.right" timestamp="1616673774857">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.right/1920.74.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1614854991389" />
+    <state width="1362" height="266" key="GridCell.Tab.0.right/1920.74.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1616673774857" />
   </component>
 </project>

@@ -1,11 +1,6 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+from default import NextAired
 
-'''
-    script.tv.show.next.aired
-    TV Show - Next Aired
-    Main service entry point
-'''
-
-from resources.lib.main_service import MainService
-MainService()
+# This will startup the Next-Aired script as a background updater.  If the skin is
+# also starting one up, the skin's version notices that we're running and exits.
+sys.argv = [ 'default.py', 'service=true' ]
+NextAired()

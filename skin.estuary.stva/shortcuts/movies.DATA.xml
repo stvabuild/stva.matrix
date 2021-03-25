@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID>10024</defaultID>
+		<label>Mis Películas</label>
+		<label2>Common Shortcut</label2>
+		<icon>DefaultMovieTitle.png</icon>
+		<thumb>special://skin/extras/icons/favourites.png</thumb>
+		<action>ActivateWindow(Videos,videodb://movies/titles/,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Novedades</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/wifi.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.alfa/?ewogICAgImFjdGlvbiI6ICJub3ZlZGFkZXMiLCAKICAgICJjYXRlZ29yeSI6ICJOb3ZlZGFkZXMgZW4gcGVsaWN1bGFzIiwgCiAgICAiY2hhbm5lbCI6ICJuZXdzIiwgCiAgICAiY29udGV4dCI6IFsKICAgICAgICB7CiAgICAgICAgICAgICJhY3Rpb24iOiAic2V0dGluZ19jaGFubmVsIiwgCiAgICAgICAgICAgICJjaGFubmVsIjogIm5ld3MiLCAKICAgICAgICAgICAgImV4dHJhIjogInBlbGljdWxhcyIsIAogICAgICAgICAgICAidGl0bGUiOiAiQ2FuYWxlcyBpbmNsdWlkb3MgZW46IFBlbFx1MDBlZGN1bGFzIgogICAgICAgIH0KICAgIF0sIAogICAgImV4dHJhIjogInBlbGljdWxhcyIsIAogICAgImluZm9MYWJlbHMiOiB7fSwgCiAgICAidGh1bWJuYWlsIjogIkM6XFxVc2Vyc1xcSFBcXEFwcERhdGFcXFJvYW1pbmdcXEtvZGlcXGFkZG9uc1xccGx1Z2luLnZpZGVvLmFsZmFcXHJlc291cmNlc1xcbWVkaWFcXHRoZW1lc1xcZGVmYXVsdFxcdGh1bWJfY2hhbm5lbHNfbW92aWUucG5nIiwgCiAgICAidGl0bGUiOiAiUGVsXHUwMGVkY3VsYXMiCn0%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Películas 4K</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/4k.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.alfa/?ewogICAgImFjdGlvbiI6ICJub3ZlZGFkZXMiLCAKICAgICJjYXRlZ29yeSI6ICJOb3ZlZGFkZXMgZW4gNGsiLCAKICAgICJjaGFubmVsIjogIm5ld3MiLCAKICAgICJjb250ZXh0IjogWwogICAgICAgIHsKICAgICAgICAgICAgImFjdGlvbiI6ICJzZXR0aW5nX2NoYW5uZWwiLCAKICAgICAgICAgICAgImNoYW5uZWwiOiAibmV3cyIsIAogICAgICAgICAgICAiZXh0cmEiOiAiNGsiLCAKICAgICAgICAgICAgInRpdGxlIjogIkNhbmFsZXMgaW5jbHVpZG9zIGVuOiBQZWxcdTAwZWRjdWxhcyA0SyIKICAgICAgICB9CiAgICBdLCAKICAgICJleHRyYSI6ICI0ayIsIAogICAgImluZm9MYWJlbHMiOiB7fSwgCiAgICAidGh1bWJuYWlsIjogIkM6XFxVc2Vyc1xcSFBcXEFwcERhdGFcXFJvYW1pbmdcXEtvZGlcXGFkZG9uc1xccGx1Z2luLnZpZGVvLmFsZmFcXHJlc291cmNlc1xcbWVkaWFcXHRoZW1lc1xcZGVmYXVsdFxcdGh1bWJfY2hhbm5lbHNfbW92aWVfNGsucG5nIiwgCiAgICAidGl0bGUiOiAiUGVsXHUwMGVkY3VsYXMgNEsiCn0%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Videoteca Alfa</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/bookmark.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.alfa/?ewogICAgImFjdGlvbiI6ICJsaXN0X21vdmllcyIsIAogICAgImNhdGVnb3J5IjogIlZpZGVvdGVjYSBkZSBwZWxcdTAwZWRjdWxhcyIsIAogICAgImNoYW5uZWwiOiAidmlkZW9saWJyYXJ5IiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJ0aHVtYm5haWwiOiAiQzpcXFVzZXJzXFxIUFxcQXBwRGF0YVxcUm9hbWluZ1xcS29kaVxcYWRkb25zXFxwbHVnaW4udmlkZW8uYWxmYVxccmVzb3VyY2VzXFxtZWRpYVxcdGhlbWVzXFxkZWZhdWx0XFx0aHVtYl92aWRlb2xpYnJhcnlfbW92aWUucG5nIiwgCiAgICAidGl0bGUiOiAiUGVsXHUwMGVkY3VsYXMiCn0%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Buscador</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/search.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.alfa/?ewogICAgImFjdGlvbiI6ICJuZXdfc2VhcmNoIiwgCiAgICAiY2hhbm5lbCI6ICJzZWFyY2giLCAKICAgICJjb250ZXh0IjogWwogICAgICAgIHsKICAgICAgICAgICAgImFjdGlvbiI6ICJzZXR0aW5nX2NoYW5uZWxfbmV3IiwgCiAgICAgICAgICAgICJjaGFubmVsIjogInNlYXJjaCIsIAogICAgICAgICAgICAidGl0bGUiOiAiRWxlZ2lyIGNhbmFsZXMgaW5jbHVpZG9zIgogICAgICAgIH0sIAogICAgICAgIHsKICAgICAgICAgICAgImFjdGlvbiI6ICJzZXR0aW5ncyIsIAogICAgICAgICAgICAiY2hhbm5lbCI6ICJzZWFyY2giLCAKICAgICAgICAgICAgInRpdGxlIjogIltDT0xPUiBncmVlbl1PdHJvcyBBanVzdGVzWy9DT0xPUl0iCiAgICAgICAgfSwgCiAgICAgICAgewogICAgICAgICAgICAiYWN0aW9uIjogImNsZWFyX3NhdmVkX3NlYXJjaGVzIiwgCiAgICAgICAgICAgICJjaGFubmVsIjogInNlYXJjaCIsIAogICAgICAgICAgICAidGl0bGUiOiAiQm9ycmFyIGJcdTAwZmFzcXVlZGFzIGd1YXJkYWRhcyIKICAgICAgICB9CiAgICBdLCAKICAgICJpbmZvTGFiZWxzIjoge30sIAogICAgIm1vZGUiOiAibW92aWUiLCAKICAgICJ0aHVtYm5haWwiOiAiQzpcXFVzZXJzXFxIUFxcQXBwRGF0YVxcUm9hbWluZ1xcS29kaVxcYWRkb25zXFxwbHVnaW4udmlkZW8uYWxmYVxccmVzb3VyY2VzXFxtZWRpYVxcdGhlbWVzXFxkZWZhdWx0XFx0aHVtYl9zZWFyY2gucG5nIiwgCiAgICAidGl0bGUiOiAiQnVzY2FyIFBlbFx1MDBlZGN1bGFzIgp9",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Canales</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/filebox.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.alfa/?ewogICAgImFjdGlvbiI6ICJmaWx0ZXJjaGFubmVscyIsIAogICAgImNhdGVnb3J5IjogIlBlbFx1MDBlZGN1bGFzIiwgCiAgICAiY2hhbm5lbCI6ICJjaGFubmVsc2VsZWN0b3IiLCAKICAgICJjaGFubmVsX3R5cGUiOiAibW92aWUiLCAKICAgICJpbmZvTGFiZWxzIjoge30sIAogICAgInRodW1ibmFpbCI6ICJDOlxcVXNlcnNcXEhQXFxBcHBEYXRhXFxSb2FtaW5nXFxLb2RpXFxhZGRvbnNcXHBsdWdpbi52aWRlby5hbGZhXFxyZXNvdXJjZXNcXG1lZGlhXFx0aGVtZXNcXGRlZmF1bHRcXHRodW1iX2NoYW5uZWxzX21vdmllLnBuZyIsIAogICAgInRpdGxlIjogIlBlbFx1MDBlZGN1bGFzIiwgCiAgICAidmlld21vZGUiOiAidGh1bWJuYWlscyIKfQ%3d%3d&quot;,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>20434</defaultID>
+		<label>20434</label>
+		<label2>Common Shortcut</label2>
+		<icon>DefaultSets.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,videodb://movies/sets/,return)</action>
+		<disabled>True</disabled>
+	</shortcut>
+	<shortcut>
+		<defaultID>652</defaultID>
+		<label>652</label>
+		<label2>Common Shortcut</label2>
+		<icon>DefaultYear.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,videodb://movies/years/,return)</action>
+		<disabled>True</disabled>
+	</shortcut>
+	<shortcut>
+		<defaultID>135</defaultID>
+		<label>135</label>
+		<label2>Common Shortcut</label2>
+		<icon>DefaultGenre.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,videodb://movies/genres/,return)</action>
+		<disabled>True</disabled>
+	</shortcut>
+	<shortcut>
+		<defaultID>344</defaultID>
+		<label>344</label>
+		<label2>Common Shortcut</label2>
+		<icon>DefaultActor.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,videodb://movies/actors/,return)</action>
+		<disabled>True</disabled>
+	</shortcut>
+	<shortcut>
+		<defaultID>20348</defaultID>
+		<label>20348</label>
+		<label2>Common Shortcut</label2>
+		<icon>DefaultDirector.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,videodb://movies/directors/,return)</action>
+		<disabled>True</disabled>
+	</shortcut>
+	<shortcut>
+		<defaultID>20388</defaultID>
+		<label>20388</label>
+		<label2>Common Shortcut</label2>
+		<icon>DefaultStudios.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,videodb://movies/studios/,return)</action>
+		<disabled>True</disabled>
+	</shortcut>
+	<shortcut>
+		<defaultID>20451</defaultID>
+		<label>20451</label>
+		<label2>Common Shortcut</label2>
+		<icon>DefaultCountry.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,videodb://movies/countries/,return)</action>
+		<disabled>True</disabled>
+	</shortcut>
+	<shortcut>
+		<defaultID>20459</defaultID>
+		<label>20459</label>
+		<label2>Common Shortcut</label2>
+		<icon>DefaultTags.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,videodb://movies/tags/,return)</action>
+		<disabled>True</disabled>
+	</shortcut>
+	<shortcut>
+		<defaultID>20314</defaultID>
+		<label>20314</label>
+		<label2>Common Shortcut</label2>
+		<icon>LibrarySettings.png</icon>
+		<thumb />
+		<action>ActivateWindow(videos,library://video/movies/,return)</action>
+		<disabled>True</disabled>
+	</shortcut>
+	<shortcut>
+		<defaultID>var-videolibraryscanlabel</defaultID>
+		<label>$VAR[VideoLibraryScanLabel]</label>
+		<label2>Common Shortcut</label2>
+		<icon>$VAR[VideoLibraryScanIcon]</icon>
+		<thumb />
+		<action>UpdateLibrary(video)</action>
+	</shortcut>
+</shortcuts>
