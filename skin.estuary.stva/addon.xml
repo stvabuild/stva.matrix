@@ -2,13 +2,13 @@
 <addon id="skin.estuary.stva" version="0.9" name="Estuary STVA" provider-name="STVA">
 	<requires>
 		<import addon="xbmc.gui" version="5.15.0"/>
-		<import addon="repository.marcelveldt"/>		
-		<import addon="resource.language.es_es"/>		
+		<import addon="repository.marcelveldt" version="1.0.3"/>		
+		<import addon="resource.language.es_es" version="0.0.0"/>		
 		<import addon="script.skinshortcuts" version="0.6.5"/>
-		<import addon="script.skin.helper.service"/>
-		<import addon="script.skin.helper.widgets"/>
-		<import addon="resource.images.studios.coloured"/>
-		<import addon="repository.repostva"/>
+		<import addon="script.skin.helper.service" version="1.1.13"/>
+		<import addon="script.skin.helper.widgets" version="1.0.22"/>
+		<import addon="resource.images.studios.coloured" version="0.0.51"/>
+		<import addon="repository.repostva" version="1.2"/>
 	</requires>
 	<extension point="xbmc.gui.skin" debugging="false">
 		<res width="1920" height="1440" aspect="4:3" default="false" folder="xml" />
@@ -20,23 +20,6 @@
  		<res width="2160" height="1080" aspect="18:9" default="false" folder="xml" />
 		<res width="2560" height="1080" aspect="21:9" default="false" folder="xml" />
 	</extension>
-	<extension point="xbmc.service" library="scripts/viewswitcher.py" visible="!String.IsEmpty(Window(home).Property(CurrentSkin)) + Skin.HasSetting(ForcedViews.Enabled)" />
-	<extension point="kodi.context.item">
-      	<menu id="kodi.core.main">
-      		<item library="scripts/context_menu_jumptoletter.py">
- 				<label>$LOCALIZE[40165]</label>
- 				<visible>!String.IsEmpty(Window(home).Property(CurrentSkin)) + [String.IsEqual(ListItem.dbtype,movie) | String.IsEqual(ListItem.dbtype,set) | String.IsEqual(ListItem.dbtype,tvshow) | String.IsEqual(ListItem.dbtype,artist) | String.IsEqual(ListItem.dbtype,album) | String.IsEqual(ListItem.dbtype,musicvideo) | Container.Content(addons)] + !Window.IsVisible(Home)</visible>
- 			</item>
-     		<item library="scripts/context_menu_moviessets.py">
- 				<label>$LOCALIZE[40181]</label>
- 				<visible>!String.IsEmpty(Window(home).Property(CurrentSkin)) + String.IsEqual(ListItem.DBType,set) + !Window.IsVisible(Home)</visible>
- 			</item>
-      		<item library="scripts/context_menu_extendedinfo.py">
-        		<label>$LOCALIZE[40182]</label>
-        		<visible>!String.IsEmpty(Window(home).Property(CurrentSkin)) + System.HasAddon(script.extendedinfo) + !System.HasAddon(context.extendedinfo.dialog) + [String.IsEqual(ListItem.dbtype,movie) | String.IsEqual(ListItem.dbtype,tvshow) | String.IsEqual(ListItem.dbtype,season) | String.IsEqual(ListItem.dbtype,actor) | String.IsEqual(ListItem.dbtype,director)]</visible>
-      		</item>
-    	</menu>
- 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">Estuary STVA skin by STVA</summary>
 		<summary lang="es_ES">Estuar STVA skin de STVA</summary>
