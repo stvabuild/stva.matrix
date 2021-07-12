@@ -2,9 +2,812 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c4cf599-76b5-4a49-a1e6-743476009e0d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/addons.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/addons.xml.md5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/addon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/skin.estuary.stva/addon.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/changelog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/colors/blue.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/colors/brown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/colors/charcoal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/colors/chartreuse.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/colors/concrete.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/colors/defaults.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/colors/gold.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/colors/green.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/colors/midnight.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/colors/orange.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/colors/pink.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/colors/red.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/colors/rose.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/colors/teal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/colors/violet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/backgrounds/grey-background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/backgrounds/overlay_trailer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/backgrounds/primary.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/backgrounds/primary_backup.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/backgrounds/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/112.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/160.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/176.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/208.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/224.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/80.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Action Adventure.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Action Sports.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Action and Adventure.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Action.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Adults Only.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Adventure.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Animals.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Animated.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Animation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Anime.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Anthology.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Archery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Art.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Auction.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Auto Racing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Auto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Aviation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Baseball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Basketball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Biography.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Boxing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Card Games.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Cartoon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Children.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Collectibles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Comedy-Drama.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Comedy-Romance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Comedy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Community.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Consumer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Cooking.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Crime Drama.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Crime.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Dance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Documentaire.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Documentary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Drama.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Educational.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Entertainment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Exercise.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Family.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Fantasy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Fashion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Feuilleton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Film.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Fitness Health.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Fitness.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Football.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Game Show.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Gardening.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Golf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Gymnastics.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Health.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Historical Drama.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/History.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Hockey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Home Improvement.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Home and Garden.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Horror Suspense.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Horror.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/House Garden.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/How-To.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Hunting.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Interview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Jeu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Journal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Law.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Magazine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Martial Arts.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Medical.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Movie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Music.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Musical Comedy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Musical.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/My Genre Color Map.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Mystery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Nature.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/News.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Newsmagazine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/No available information.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/No information available.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Other.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Outdoor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Outdoors.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Paranormal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Parenting.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Playoff Sports.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Politics.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Public Affairs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Reality.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Religious.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Rodeo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Romance-Comedy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Romance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Science Fiction.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Shooting.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Shopping.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Soap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Sports Event.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Sports Talk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Sports non-event.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Sports.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Suspense.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Talk show.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Talk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Thriller.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Travel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Unknown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Variety.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/War.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Weather.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/Western.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/actualidad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/aficiones.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/cine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/cocina.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/comedia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/compras.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/concursos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/cortometraje.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/cultural educativo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/cultural.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/debate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/debates.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/deporte.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/deportes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/dibujos animados.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/divulgativo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/documentales.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/educativo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/el tiempo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/entretenimiento.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/entrevistas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/historia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/infantil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/informativos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/juegos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/musicales.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/noticias.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/ocio y aficiones.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/ocio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/otros.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/reality show.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/reportaje actualidad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/reportajes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/revista.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/series.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/shows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/sin clasificar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/sitcom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/sitcoms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/special.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/sport.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/telefilme.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/toros.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/epg-genres/videoclips.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/help/ajustes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/help/alfa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/help/balandro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/help/buscadores.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/help/context.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/help/contextbalandro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/help/custom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/help/deportes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/help/homebasic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/help/homenetflix.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/help/inicio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/help/juegos.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/help/updates.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/help/videoteca.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/help/videotecabalandro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/home-images/addons.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/home-images/coreelec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/home-images/disc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/home-images/favorites.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/home-images/games.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/home-images/libreelec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/home-images/livetv.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/home-images/movies.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/home-images/music.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/home-images/musicvideos.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/home-images/pictures.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/home-images/power.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/home-images/radio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/home-images/search.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/home-images/settings.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/home-images/sports.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/home-images/tvshows.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/home-images/video.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/home-images/videolibrary.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/home-images/weather.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/home-images/weather1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/3dtv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/4k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/3d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/action.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/adult.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/adventure.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/animation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/anime.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/black and white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/children.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/classic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/comedy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/concert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/crime.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/divers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/documentary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/drama.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/fantasy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/foreign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/history.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/horror.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/martial arts.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/music.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/mystery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/polar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/romance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/sifi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/sport.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/suspense.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/thriller.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/war.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Genres/western.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Power menu/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Power menu/cancel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Power menu/exit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Power menu/inhibitidleshutdown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Power menu/logoff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Power menu/mastermode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Power menu/powerdown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Power menu/reboot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Power menu/reload.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Power menu/shutdowntimer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Power menu/suspend.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Power menu/updatemusic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/Power menu/updatevideo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/abc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/actor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/actors.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/addon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/addons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/addtile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/album.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/amazon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/android.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/antenna.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/apple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/arcade.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/artist.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/audiogenre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/award.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/battery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/bbc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/beer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/bigbox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/bookmark-star.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/bookmark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/bookmarks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/brightness.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/cd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/channels.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/chrome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/cloud.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/cloudmusic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/coins.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/compass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/concert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/configure.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/contrast.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/controlpanel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/creditcard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/crosshair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/dailymotion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/database.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/diamond.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/director.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/dj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/download.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/download_repo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/dvd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/eject.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/emby.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/episode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/equalizer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/error.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/espn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/favourite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/favourites.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/filebox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/filemanager.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/files.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/flask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/flask2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/foodnetwork.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/forbidden.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/fullscreen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/games.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/genre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/genres.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/grooveshark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/guide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/hdd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/hulu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/icefilms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/iconstva.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/infinity.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/infobubble.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/install_from_zip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/iview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/keyboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/keys.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/kodi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/kodi2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/lastfm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/lazytv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/libreelec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/lightbulb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/lightbulb2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/livetv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/location-next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/location-previous.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/location-star.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/logout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/mame.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/mangas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/map.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/media.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/mickey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/mlb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/movie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/music.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/musicvideo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/mute.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/nas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/nba.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/netflix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/network.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/newspaper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/nfl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/nhl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/none.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/octo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/openelec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/ouya.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/paintbrush.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/paintbucket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/paintbucket2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/paintbucket3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/pandora.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/pictures.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/play2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/playlist.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/playstation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/plus7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/power.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/quote.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/radio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/recent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/recentlyadded.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/recordings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/rocket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/rocket2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/season.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/sets.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/shipping.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/signpost.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/skinsettings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/skype.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/song.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/songza.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/sort-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/soundcloud.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/soundwave.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/sportsnet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/spotify.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/steam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/stop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/stream-music.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/stream-video.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/sun.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/supernes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/swissarmy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/sysinfo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/tags.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/ted.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/timer-rules.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/timer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/timers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/top100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/trakttv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/tv-search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/tv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/tvalacarta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/tvguide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/twitch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/ufc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/update.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/updatelibrary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/ustvnow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/vevo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/video-addons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/video.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/videos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/vimeo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/volume.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/wand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/warning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/weather-settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/wifi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/wii.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/windows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/world.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/wwe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/xbox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/year.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/years.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/icons/zatoo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/patterns/pattern1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/patterns/pattern10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/patterns/pattern11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/patterns/pattern12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/patterns/pattern13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/patterns/pattern14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/patterns/pattern15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/patterns/pattern16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/patterns/pattern2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/patterns/pattern3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/patterns/pattern4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/patterns/pattern5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/patterns/pattern6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/patterns/pattern7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/patterns/pattern8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/patterns/pattern9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/views.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/views/50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/views/500.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/views/501.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/views/502.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/views/503.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/views/504.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/views/505.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/views/506.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/views/507.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/views/508.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/views/509.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/views/51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/views/53.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/views/54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/views/55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/weather/na.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/extras/year.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/fonts/NotoMono-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/fonts/NotoSans-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/fonts/NotoSans-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/fonts/PermanentMarker.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/fonts/Roboto-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/fonts/RobotoCondensed-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/fonts/RobotoCondensed-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/fonts/lyrics/BOXING.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/fonts/lyrics/Exo2-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/fonts/lyrics/Fredoka One.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/fonts/lyrics/Geomancy - Extra Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/fonts/lyrics/Luckiest Guy.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/fonts/lyrics/PollerOne.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/fonts/lyrics/Ranchers-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/fonts/lyrics/SF Distant Galaxy.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/fonts/lyrics/Theboldfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/fonts/lyrics/hemi head bd it.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/language/resource.language.en_gb/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/language/resource.language.es_es/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/media/Textures.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/media/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/media/curial.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/media/flat.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/playlists/inprogress_movies.xsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/playlists/mostplayed_albums.xsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/playlists/mostplayed_musicvideos.xsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/playlists/random_albums.xsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/playlists/random_artists.xsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/playlists/random_movies.xsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/playlists/random_musicvideo_artists.xsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/playlists/random_musicvideos.xsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/playlists/recent_episodes.xsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/playlists/recent_movies.xsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/playlists/recent_unwatched_episodes.xsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/playlists/recent_unwatched_movies.xsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/playlists/unplayed_albums.xsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/playlists/unwatched_movies.xsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/playlists/unwatched_musicvideos.xsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/playlists/unwatched_tvshows.xsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/resources/fanart.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/resources/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/resources/screenshot-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/resources/screenshot-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/resources/screenshot-05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/resources/screenshot-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/resources/screenshot-07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/resources/screenshot-08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/resources/screenshot-09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/resources/screenshot-10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/resources/screenshot-11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/scripts/context_menu_extendedinfo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/scripts/context_menu_jumptoletter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/scripts/context_menu_moviessets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/scripts/viewswitcher.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/shortcuts/addons.DATA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/shortcuts/livetv.DATA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/shortcuts/mainmenu.DATA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/shortcuts/movies.DATA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/shortcuts/music.DATA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/shortcuts/musicvideos.DATA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/shortcuts/overrides.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/shortcuts/powermenu.DATA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/shortcuts/radio.DATA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/shortcuts/sports.DATA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/shortcuts/template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/shortcuts/tvshows.DATA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/shortcuts/video.DATA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/shortcuts/videolibrary.DATA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/themes/curial/buttons/button-nofo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/themes/curial/dialogs/dialog-bg-nobo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/themes/curial/dialogs/dialog-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/themes/curial/lists/panel-mediamenu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/themes/curial/lists/panel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/themes/curial/overlays/shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/themes/flat/buttons/button-nofo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/themes/flat/dialogs/dialog-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/themes/flat/overlays/shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/AddonBrowser.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1100_AddonLauncher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1101_SettingsList.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1102_TextViewer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1103_VolumeSlider.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1104_Fanart.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1105_MusicOSDSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1107_SearchDialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1108_Videoteca.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1109_TopBarOverlay.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1119_SettingsSportsWidgets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1120_SourcesDialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1121_MusicFullscreenEnabler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1122_ActorsList.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1123_SettingsMoviesWidgets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1123_SettingsVideolibraryWidgets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1124_SettingsTVShowsWidgets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1125_SettingsMusicWidgets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1126_SettingsMusicVideoWidgets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1127_SettingsTVWidgets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1128_SettingsRadioWidgets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1129_SettingsProgramsWidgets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1130_SettingsVideoWidgets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1131_SettingsViews.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1132_MoviesSetsInfo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1133_ParentalControl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1134_PVRNextUp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1135_PVROverlay.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1136_WarningPopUp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1137_SettingsFlags.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1138_PlayerPlot.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1139_YoutubeRecommended.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1140_MusicVideoInfo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1141_MusicPlayerInfo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1142_Themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1143_MoviesInfoDialogList.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1144_TVShowsInfoDialogList.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1145_MusicVideosInfoDialogList.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1146_ArtistsInfoDialogList.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1147_AlbumsInfoDialogList.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1148_SongsInfoDialogList.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1149_Repositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1150_Content.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1151_Help.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1152_Help.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1153_SettingsVideolibraryWidgets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1154_Addons.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1155_Dependencies.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1156_HomeStyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1157_rci.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Custom_1158_ChooseAddon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Defaults.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogAddonInfo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogAddonSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogBusy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogButtonMenu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogConfirm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogContextMenu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogExtendedProgressBar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogFavourites.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogFullScreenInfo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogGameControllers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogKeyboard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogMediaSource.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogMusicInfo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogNotification.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogNumeric.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogPVRChannelGuide.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogPVRChannelManager.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogPVRChannelsOSD.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogPVRGroupManager.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogPVRGuideSearch.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogPVRInfo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogPVRRadioRDSInfo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogPictureInfo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogPlayerProcessInfo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogSeekBar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogSelect.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogSlider.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogSubtitles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogTextViewer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogVideoInfo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/DialogVolumeBar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/EventLog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/FileBrowser.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/FileManager.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Font.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/GameOSD.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Includes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Includes_Animations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Includes_Buttons.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Includes_DialogSelect.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Includes_Home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Includes_MediaMenu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Includes_PVR.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Includes_VideoLyrics.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/LoginScreen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/MusicOSD.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/MusicVisualisation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/MyGames.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/MyMusicNav.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/MyMusicPlaylistEditor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/MyPVRChannels.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/MyPVRGuide.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/MyPVRRecordings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/MyPVRSearch.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/MyPVRTimers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/MyPics.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/MyPlaylist.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/MyPrograms.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/MyVideoNav.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/MyWeather.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/PlayerControls.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Pointer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/SettingsCategory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/SettingsProfile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/SettingsScreenCalibration.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/SettingsSystemInfo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/SkinSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/SlideShow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/SmartPlaylistEditor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/SmartPlaylistRule.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Startup.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/Variables.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/VideoFullScreen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/VideoOSD.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/VideoOSDBookmarks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/View_500_Wall.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/View_501_Banner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/View_502_FanArt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/View_503_Gallery.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/View_503_Gallery_21x9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/View_504_ThumbsWall.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/View_505_ThumbsInfoWall.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/View_506_Mosaic.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/View_507_Mosaic_Vertical.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/View_508_DoubleLists.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/View_509_TripleLists.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/View_50_List.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/View_51_Poster.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/View_52_IconWall.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/View_53_Shift.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/View_54_InfoWall.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/View_55_WideList.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/script-NextAired-TVGuide.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/script-NextAired-TVGuide2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/script-RSS_Editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/script-cu-lrclyrics-main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/script-globalsearch.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/script-loguploader-main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/script-nextup-notification-NextUpInfo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/script-nextup-notification-PostPlayInfo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/script-nextup-notification-StillWatchingInfo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/script-nextup-notification-UnwatchedInfo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/script-script.extendedinfo-DialogInfo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/script-script.extendedinfo-DialogVideoInfo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/script-script.extendedinfo-VideoList.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/script-script.extendedinfo-YoutubeList.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/script-script.module.kodi65-t9search.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/script-skin_helper_service-ColorPicker.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/script-skinshortcuts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/script-upnext-stillwatching-simple.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/script-upnext-stillwatching.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/script-upnext-upnext-simple.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/script-upnext-upnext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/service-CoreELEC-Settings-getPasskey.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/service-CoreELEC-Settings-mainWindow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/service-CoreELEC-Settings-wizard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/service-LibreELEC-Settings-getPasskey.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/service-LibreELEC-Settings-mainWindow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.estuary.stva/xml/service-LibreELEC-Settings-wizard.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +826,28 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.repo_maker">
+    <configuration name="repo_maker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stva.matrix" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/repo_maker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="repo_prep_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="stva.matrix" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -47,6 +871,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.repo_maker" />
         <item itemvalue="Python.repo_prep_matrix" />
       </list>
     </recent_temporary>
@@ -63,21 +888,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1362" height="266" key="GridCell.Tab.0.bottom" timestamp="1626115179134">
+    <state width="1362" height="266" key="GridCell.Tab.0.bottom" timestamp="1626115721870">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.bottom/1920.74.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1626115179134" />
-    <state width="1362" height="266" key="GridCell.Tab.0.center" timestamp="1626115179134">
+    <state width="1362" height="266" key="GridCell.Tab.0.bottom/1920.74.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1626115721870" />
+    <state width="1362" height="266" key="GridCell.Tab.0.center" timestamp="1626115721870">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.center/1920.74.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1626115179134" />
-    <state width="1362" height="266" key="GridCell.Tab.0.left" timestamp="1626115179133">
+    <state width="1362" height="266" key="GridCell.Tab.0.center/1920.74.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1626115721870" />
+    <state width="1362" height="266" key="GridCell.Tab.0.left" timestamp="1626115721870">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.left/1920.74.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1626115179133" />
-    <state width="1362" height="266" key="GridCell.Tab.0.right" timestamp="1626115179134">
+    <state width="1362" height="266" key="GridCell.Tab.0.left/1920.74.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1626115721870" />
+    <state width="1362" height="266" key="GridCell.Tab.0.right" timestamp="1626115721870">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.right/1920.74.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1626115179134" />
+    <state width="1362" height="266" key="GridCell.Tab.0.right/1920.74.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1626115721870" />
   </component>
 </project>
