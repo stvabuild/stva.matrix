@@ -19,13 +19,12 @@
 # *
 # *  Based on code by j48antialias:
 # *  https://anarchintosh-projects.googlecode.com/files/addons_xml_generator.py
- 
+
 """ addons.xml generator """
- 
+
 import os
 import sys
-import hashlib
- 
+
 # Compatibility with 3.0, 3.1 and 3.2 not supporting u"" literals
 if sys.version < '3':
     import codecs
@@ -34,7 +33,7 @@ if sys.version < '3':
 else:
     def u(x):
         return x
- 
+
 class Generator:
     """
         Generates a new addons.xml file from each addons addon.xml file
@@ -47,10 +46,10 @@ class Generator:
         self._generate_md5_file()
         # notify user
         print("Finished updating addons xml and md5 files")
- 
+
     def _generate_addons_file( self ):
         # addon list
-        addons = os.listdir( "." )
+        addons = os.listdir( "./" )
         # final addons text
         addons_xml = u("<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\n<addons>\n")
         # loop thru and add each addons addon.xml file
@@ -61,7 +60,7 @@ class Generator:
                 # create path
                 _path = os.path.join( addon, "addon.xml" )
                 # split lines for stripping
-                xml_lines = open( _path, "r" , encoding="UTF-8").read().splitlines()
+                xml_lines = open( _path, "r" ).read().splitlines()
                 # new addon
                 addon_xml = ""
                 # loop thru cleaning each line
@@ -82,7 +81,7 @@ class Generator:
         addons_xml = addons_xml.strip() + u("\n</addons>\n")
         # save file
         self._save_file( addons_xml.encode( "UTF-8" ), file="addons.xml" )
- 
+
     def _generate_md5_file( self ):
         # create a new md5 hash
         try:
@@ -91,14 +90,14 @@ class Generator:
         except ImportError:
             import hashlib
             m = hashlib.md5( open( "addons.xml", "r", encoding="UTF-8" ).read().encode( "UTF-8" ) ).hexdigest()
- 
+
         # save file
         try:
             self._save_file( m.encode( "UTF-8" ), file="addons.xml.md5" )
         except Exception as e:
             # oops
             print("An error occurred creating addons.xml.md5 file!\n%s" % e)
- 
+
     def _save_file( self, data, file ):
         try:
             # write data to the file (use b for Python 3)
@@ -106,39 +105,8 @@ class Generator:
         except Exception as e:
             # oops
             print("An error occurred saving %s file!\n%s" % ( file, e ))
- 
- 
+
+
 if ( __name__ == "__main__" ):
     # start
     Generator()
-	
-parent_folder = './'
-all_dirs = []
-for dir_name in os.listdir(parent_folder):
-    subdir = os.path.join(parent_folder, dir_name)
-    if os.path.isdir(subdir) and dir_name not in [".git", "externals"]:
-        # addon directory
-        all_dirs.append(dir_name)
-        html = "<html>\n<body>\n<h1>Directory listing for %s</h1>\n<hr/>\n<pre>" % dir_name
-        html += "<a href=\"../index.html\">..</a>\n"
-        for filename in os.listdir(subdir):
-            if filename.endswith(".zip"):
-                file = os.path.join(subdir, filename)
-                # append zip to html listing
-                html += "<a href=\"%s\">%s</a>\n" % (filename, filename)
-        html += "</pre>\n</body>\n</html>"
-        html_file = os.path.join(subdir, "index.html")
-        print ("write html file %s" % html_file)
-        with open(html_file, 'w') as f:
-            f.write(html)
-
-# write main index.html
-html = "<html>\n<body>\n<h1>Directory listing</h1>\n<hr/>\n<pre>"
-for dir_name in all_dirs:
-    dir_path = os.path.join(parent_folder, dir_name, 'index.html')
-    html += "<a href=\"%s\">%s</a>\n" % (dir_path, dir_name)
-html += "</pre>\n</body>\n</html>"
-html_file = os.path.join(parent_folder, "index.html")
-print ("write html file %s" % html_file)
-with open(html_file, 'w') as f:
-    f.write(html)

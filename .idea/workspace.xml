@@ -2,241 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c4cf599-76b5-4a49-a1e6-743476009e0d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/addons.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/addons.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/addons.xml.md5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.close.kodi/addon.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.close.kodi/default.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.close.kodi/fanart.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.close.kodi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.close.kodi/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.close.kodi/resources/art/force.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.close.kodi/resources/language/english/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.close.kodi/resources/skins/DefaultSkin/720p/amobox.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.close.kodi/resources/skins/DefaultSkin/media/DialogCloseButton-focus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.close.kodi/resources/skins/DefaultSkin/media/DialogCloseButton.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.close.kodi/resources/skins/DefaultSkin/media/amoboxsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/AADecoder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/AGRADECIMIENTOS.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/CustomPlayer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/RijndaelManaged.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/_DMsearch.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/_ytplist.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/addon.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/autoexec.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/cfscrape.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/changelog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/checkbad.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/cloudflare.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/default.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/fanart.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/genesisresolvers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/icon.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/jscrypto.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/jsunpack.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/keepalive.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/lib/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/lib/megaserver/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/lib/megaserver/client.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/lib/megaserver/cursor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/lib/megaserver/file.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/lib/megaserver/handler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/lib/megaserver/server.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/new 9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/oneplay.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/ordereddict.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/pkcs7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/playtvfr.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/pyDes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/pyaes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/pyaesnew/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/pyaesnew/aes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/pyaesnew/blockfeeder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/pyaesnew/openssl_aes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/pyaesnew/util.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/resources/settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/rijndael/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/rijndael/cipher/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/rijndael/cipher/blockcipher.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/rijndael/cipher/crypt.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/rijndael/cipher/method.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/rijndael/utils/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/rijndael/utils/cvt.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/rijndael/utils/padding.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/securi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/source_file" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/startup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/sucuri_cookie.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/tv5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/unCaptcha.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/unwise.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/vipracing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/wattv.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/websocket/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/websocket/_abnf.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/websocket/_app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/websocket/_core.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/websocket/_exceptions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/websocket/_handshake.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/websocket/_http.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/websocket/_logging.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/websocket/_socket.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/websocket/_ssl_compat.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/websocket/_url.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/websocket/_utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/websocket/cacert.pem" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/websocket/six.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/websocket/tests/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/websocket/tests/data/header01.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/websocket/tests/data/header02.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/websocket/tests/test_websocket.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.cristalazul/youtubedl.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/addon.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/default.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/fanart.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/icon.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/resources/language/resource.language.en_au/strings.po" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/resources/language/resource.language.en_gb/strings.po" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/resources/language/resource.language.en_nz/strings.po" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/resources/language/resource.language.en_us/strings.po" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/resources/language/resource.language.es_ar/strings.po" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/resources/language/resource.language.es_es/strings.po" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/resources/language/resource.language.es_mx/strings.po" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/resources/language/resource.language.fr_ca/strings.po" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/resources/language/resource.language.fr_fr/strings.po" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/resources/media/error.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/resources/media/live.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/F4mProxy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/F4mProxy_default.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/HLSDownloaderRetry.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/HLSMLB.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/HLSRedirector.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/TSDownloader.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/akhds.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/androidsslPy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/bitstring.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/decrypter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/f4mDownloader.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/f4mUtils/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/f4mUtils/aes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/f4mUtils/asn1parser.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/f4mUtils/cipherfactory.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/f4mUtils/codec.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/f4mUtils/compat.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/f4mUtils/cryptomath.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/f4mUtils/datefuncs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/f4mUtils/keyfactory.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/f4mUtils/openssl_aes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/f4mUtils/openssl_rc4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/f4mUtils/openssl_rsakey.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/f4mUtils/openssl_tripledes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/f4mUtils/pem.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/f4mUtils/pycrypto_aes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/f4mUtils/pycrypto_rc4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/f4mUtils/pycrypto_rsakey.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/f4mUtils/pycrypto_tripledes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/f4mUtils/python_aes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/f4mUtils/python_rc4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/f4mUtils/python_rsakey.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/f4mUtils/rc4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/f4mUtils/rijndael.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/f4mUtils/rsakey.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/f4mUtils/tackwrapper.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/f4mUtils/tripledes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/flvlib/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/flvlib/astypes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/flvlib/constants.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/flvlib/helpers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/flvlib/primitives.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/flvlib/scripts/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/flvlib/scripts/debug_flv.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/flvlib/scripts/index_flv.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/flvlib/scripts/retimestamp_flv.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/flvlib/tags.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/hlsDownloader.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/F4mProxy/interalSimpleDownloader.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/cfscrape/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/cfscrape/cfconnector.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/cfscrape/cloudflare.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/f4mtester/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/f4mtester/f4mTester.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.video.winner/sources/lib/f4mtester/webutils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository.stva.matrix/addon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repository.stva.matrix/addon.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/addon.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/changelog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/controlstartup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/default.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/fanart.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/media/Ajustes.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/media/Mante.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/media/bibloteca.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/media/buffer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/media/depen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/media/depenico.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/media/gdrive.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/media/herra.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/media/icon2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/media/image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/media/indigo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/media/ltemp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/media/luar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/media/lupa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/media/paque.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/media/respaldo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/media/update.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/resources/screenshot000.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/resources/screenshot001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/resources/screenshot002.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/resources/settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/service.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.limpiarkodi/textviewer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/addon.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/default.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/fanart.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/icon.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/media/Background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/media/Background2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/media/ButtonFO.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/media/Culturales y Curiosos.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/media/Icon.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/media/buscar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/media/categorias.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/media/deportivos.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/media/drive.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/media/icon_default.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/media/infantiles.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/media/latinos.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/media/matrix.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/media/motores torrent.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/media/musicales.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/media/peliculas, series y documentales.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/media/programas y herramientas.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/media/recomendados.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/media/repositorios.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/media/scripts.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/media/todos.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/media/tv.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/media/updates.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/media/variados.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/media/vo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/media/wizards.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/media/xxx.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/media/youtube.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/screenshot000.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/screenshot001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/screenshot002.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.luar/resources/settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo_prep_matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/repo_prep_matrix.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -253,6 +23,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="repo_prep_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -294,21 +65,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1362" height="266" key="GridCell.Tab.0.bottom" timestamp="1616674660308">
+    <state width="1362" height="266" key="GridCell.Tab.0.bottom" timestamp="1626114111574">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.bottom/1920.74.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1616674660308" />
-    <state width="1362" height="266" key="GridCell.Tab.0.center" timestamp="1616674660307">
+    <state width="1362" height="266" key="GridCell.Tab.0.bottom/1920.74.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1626114111574" />
+    <state width="1362" height="266" key="GridCell.Tab.0.center" timestamp="1626114111574">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.center/1920.74.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1616674660307" />
-    <state width="1362" height="266" key="GridCell.Tab.0.left" timestamp="1616674660307">
+    <state width="1362" height="266" key="GridCell.Tab.0.center/1920.74.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1626114111574" />
+    <state width="1362" height="266" key="GridCell.Tab.0.left" timestamp="1626114111574">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.left/1920.74.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1616674660307" />
-    <state width="1362" height="266" key="GridCell.Tab.0.right" timestamp="1616674660307">
+    <state width="1362" height="266" key="GridCell.Tab.0.left/1920.74.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1626114111574" />
+    <state width="1362" height="266" key="GridCell.Tab.0.right" timestamp="1626114111574">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.right/1920.74.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1616674660307" />
+    <state width="1362" height="266" key="GridCell.Tab.0.right/1920.74.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1626114111574" />
   </component>
 </project>
